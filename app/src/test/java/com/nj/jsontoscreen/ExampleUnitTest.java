@@ -1,4 +1,4 @@
-package nj.com.jsontoscreen;
+package com.nj.jsontoscreen;
 
 import org.junit.Test;
 

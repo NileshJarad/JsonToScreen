@@ -1,4 +1,4 @@
-package nj.com.jsontoscreen;
+package com.nj.jsontoscreen;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("nj.com.jsontoscreen", appContext.getPackageName());
+        assertEquals("com.nj.jsontoscreen", appContext.getPackageName());
     }
 }

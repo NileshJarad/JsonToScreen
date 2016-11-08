@@ -1,4 +1,4 @@
-package nj.com.jsontoscreen;
+package com.nj.jsontoscreen;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
